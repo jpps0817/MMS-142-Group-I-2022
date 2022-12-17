@@ -1,0 +1,15 @@
+$heading-font-stack: 'Quattrocento', serif;
+$body-font-stack: 'Quattrocento Sans';
+$brand-color: #330101 ;
+
+html, p, a, footer h4{
+    font-family: $body-font-stack;
+}
+
+h1, h2, h3, h4, h5{
+    font-family: $heading-font-stack;
+    font-weight: 400;
+}
+.bg-primary{
+    background-color: $brand-color !important;
+}
