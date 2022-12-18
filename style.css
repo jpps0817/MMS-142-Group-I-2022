@@ -2,6 +2,13 @@ html, p, a, footer h4 {
   font-family: "Quattrocento Sans";
 }
 
+a {
+  color: #03421f;
+}
+a:hover {
+  color: #820d0d;
+}
+
 h1, h2, h3, h4, h5 {
   font-family: "Quattrocento", serif;
   font-weight: 400;
@@ -9,4 +16,12 @@ h1, h2, h3, h4, h5 {
 
 .bg-primary {
   background-color: #330101 !important;
+}
+
+section {
+  border-bottom: 2px solid rgb(62, 62, 62);
+}
+
+#references {
+  border-bottom: none;
 }/*# sourceMappingURL=style.css.map */

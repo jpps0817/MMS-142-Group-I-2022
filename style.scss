@@ -1,15 +1,27 @@
 $heading-font-stack: 'Quattrocento', serif;
 $body-font-stack: 'Quattrocento Sans';
 $brand-color: #330101 ;
+$secondary-color: #03421f;
 
 html, p, a, footer h4{
     font-family: $body-font-stack;
 }
-
+a{
+    color: $secondary-color;
+    &:hover{
+        color:#820d0d;
+    }
+}
 h1, h2, h3, h4, h5{
     font-family: $heading-font-stack;
     font-weight: 400;
 }
 .bg-primary{
     background-color: $brand-color !important;
+}
+section{
+    border-bottom: 2px solid rgb(62, 62, 62)
+}
+#references{
+    border-bottom: none;
 }
