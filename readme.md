@@ -2,7 +2,7 @@
 
 This article is a collaborative project by students from the  University of the Philippines Open University under the BA Multimedia  Arts Program. The group saw the huge impact of streaming in both  technology and business. This has led them to research and publish this  article about streaming services and how it has disrupted our world  today.
 
-Click [https://jpps0817.github.io/MMS-142-Group-I-2022/](https://www.youtube.com/watch?v=LrjdpNDfZLo) to view the research page. 
+Click [here](https://jpps0817.github.io/MMS-142-Group-I-2022/) to view the research page. 
 
 ## Streaming and How it Revolutionized the TV, Music, and Movie Industries
 
