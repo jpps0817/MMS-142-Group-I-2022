@@ -19,3 +19,5 @@ Media on demand by way of streaming services has toppled media giants. This is e
 - Luis Iñigo Silva
 - Jea Camela Tagudinay
 - Vrodhen Taguibao
+- Arnaldo Rubi
+- Jaime Sayat
